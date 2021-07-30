@@ -15,7 +15,6 @@ export function TaskList() {
   const [newTaskTitle, setNewTaskTitle] = useState('')
 
   function handleCreateNewTask() {
-    // Crie uma nova task com um id random, não permita criar caso o título seja vazio.
     if (!newTaskTitle) {
       return (() => alert('Dê um nome para a tarefa'))
     }
@@ -27,7 +26,6 @@ export function TaskList() {
   }
 
   function handleToggleTaskCompletion(id: number) {
-    // Altere entre `true` ou `false` o campo `isComplete` de uma task com dado ID
     const index = tasks.findIndex(task => task.id === id)
     const task: Task[] = tasks
     
@@ -36,7 +34,6 @@ export function TaskList() {
   }
 
   function handleRemoveTask(id: number) {
-    // Remova uma task da listagem pelo ID
     const index = tasks.findIndex(task => task.id === id)
     const task: Task[] = tasks
     task.splice(index, 1)
