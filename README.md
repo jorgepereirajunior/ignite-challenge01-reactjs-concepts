@@ -13,7 +13,7 @@
    * [Technologies](#🛠️technologies)
    * [How To Run The Project](#🎲how-to-run-the-project)
    * [License](#📝license)
-   * [Developer](#🖥️developer)
+   * [Developer](#-🖥️developer)
 
 </br>
 
