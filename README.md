@@ -9,21 +9,21 @@
 
 </br>
 
-   * [About](#about)
-   * [Technologies](#technologies)
-   * [How To Run The Project](#how-to-run-the-project)
-   * [License](#licensa)
-   * [Developer](#developer)
+   * [About](#📝about )
+   * [Technologies](#🛠️technologies)
+   * [How To Run The Project](#🎲how-to-run-the-project)
+   * [License](#📝license)
+   * [Developer](#🖥️developer)
 
 </br>
 
-# 📝 About
+# 📝About
 The purpose of the application was to put into practice the operation of react states.
 The application presents an Todo List where a list of tasks can be scheduled, marked as done and not done and deleted.
 </br>
 </br>
 
-# 🛠️ Technologies
+# 🛠️Technologies
 The following technologies were used to build this project
 
 * [Typescript](https://www.typescriptlang.org/)
@@ -33,7 +33,7 @@ The following technologies were used to build this project
 
 </br>
 
-# 🎲 How to run the project
+# 🎲How to run the project
 
 ## Prerequesites
 Before starting, you will need to have the following tools installed on your machine: [Git](https://git-scm.com/), [Node.js](https://nodejs.org/en/). It's also nice to have an editor to work with code like [VSCode](https://code.visualstudio.com/)
@@ -55,12 +55,12 @@ $ yarn dev
 
 </br>
 
-# 📝 License
-This project is licensed under the MIT license. read [here](https://github.com/jorgepereirajunior/ignite-challenge01-reactjs-concepts/blob/d73d5b3fb2abeca36cebcfd865c591840bbe69b3/LICENSE).
+# 📝License
+This project is licensed under the MIT license. read [here](https://github.com/jorgepereirajunior/ignite-challenge01-reactjs-concepts/blob/d73d5b3fb2abeca36cebcfd865c591840bbe69b3/LICENSE)
 
 </br>
 
-# 🖥️ Developer
+# 🖥️Developer
 👨‍🚀 Jorge Pereira Júnior, 2021
 
 ![image](https://img.shields.io/badge/-jorgejunior.jpj2016%40gmail.com-red?style=flat&logo=gmail&logoColor=white)
